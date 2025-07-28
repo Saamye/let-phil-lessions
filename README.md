@@ -1,3 +1,3 @@
 # let-phil-lessions
 
-<!-- hey whats happening -->
+hey whats happening
